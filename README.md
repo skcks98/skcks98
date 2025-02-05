@@ -48,5 +48,5 @@
 <br>
 
 ### 🪪 Me
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=smileperson)](https://velog.io/@smileperson)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=smileperson)](https://velog.io/@nachanwoong)
 <a href="mailto:skcks98@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=soomin9@naver.com"/></a>
