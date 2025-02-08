@@ -5,12 +5,13 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </p>
 
 <h4 align="left">Back-End</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white">
   <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
@@ -20,7 +21,9 @@
 <h4 align="left">Server</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
   <img src="https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white">
 </p>
 </p>
@@ -30,7 +33,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=black"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </p>
 </p>
 
